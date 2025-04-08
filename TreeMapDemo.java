@@ -7,6 +7,8 @@ public class TreeMapDemo {
         tm.put(102,"YYY");
         tm.put(103,"XXX");
         tm.put(104,106);
+        // tm.put("FFFF","XXX"); // ClassCastException
+        // tm.put(null , "FFF"); // NullPointerException
         System.out.println(tm);
     }
 }
