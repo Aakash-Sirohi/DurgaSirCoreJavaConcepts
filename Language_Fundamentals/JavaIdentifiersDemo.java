@@ -30,5 +30,12 @@ public class JavaIdentifiersDemo {
 
         int Runnable = 22;
         System.out.println(Runnable);
+
+
+
+
+
+
+
     }
 }
